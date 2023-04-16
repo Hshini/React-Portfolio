@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Portofolio/static/css/main.69db4d8c.css",
+    "main.js": "/React-Portofolio/static/js/main.8eddff24.js",
+    "static/media/lovehungry.png": "/React-Portofolio/static/media/lovehungry.91a112ee50a5a3ef08d1.png",
+    "static/media/Breezycocktail.png": "/React-Portofolio/static/media/Breezycocktail.496f595841b2013fded6.png",
+    "static/media/Note-Taker.png": "/React-Portofolio/static/media/Note-Taker.785f25fe2c7392f05310.png",
+    "index.html": "/React-Portofolio/index.html",
+    "main.69db4d8c.css.map": "/React-Portofolio/static/css/main.69db4d8c.css.map",
+    "main.8eddff24.js.map": "/React-Portofolio/static/js/main.8eddff24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69db4d8c.css",
+    "static/js/main.8eddff24.js"
+  ]
+}
