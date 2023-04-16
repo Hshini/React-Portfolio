@@ -1,7 +1,5 @@
 # Portfolio
 
-## Description
-My name is Halim, I like programming. I live in New York City, on this page you will find information about me, my work, and my contact.
 ## Installation
 
 N/A<br>
