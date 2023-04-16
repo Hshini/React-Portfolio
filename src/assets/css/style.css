@@ -1,0 +1,47 @@
+
+.gallery{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+/* .project{
+    width: 500px;
+    height: 300px;
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+} */
+
+.bcProject{
+    width: 500px;
+    height: 300px;
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+}
+.bcProject:hover{
+    transform: scale(1.1);
+    z-index:2;
+}
+.lhProject{
+    width: 500px;
+    height: 300px;
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+}
+.lhProject:hover{
+    transform: scale(1.1);
+    z-index:2;
+}
+.ntProject{
+    width: 500px;
+    height: 300px;
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+}
+.ntProject:hover{
+    transform: scale(1.1);
+    z-index:2;
+}
