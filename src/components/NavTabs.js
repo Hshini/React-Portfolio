@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs"
-      style={{ display: 'flex', justifyContent: "end", flexDirection: 'row', paddingTop: '10px', paddingBottom: "10px", backgroundColor: "#0d6efd" }}>
+      style={{ display: 'flex', justifyContent: "end", flexDirection: 'row', paddingTop: '10px', paddingBottom: "10px", backgroundColor: "#34568B" }}>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <div className='pages' style={{ display: 'flex', justifyContent: 'end', flexDirection: 'row' }}>
         <li className="nav-item">
