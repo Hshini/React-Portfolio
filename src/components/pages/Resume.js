@@ -26,6 +26,7 @@ export default function Resume() {
                 <li>MongoDB mongose</li>
                 <li>Rest</li>
                 <li>GraphQL</li>
+                
             </ul>
             <footer style={{ display: 'flex', flexDirection: 'row', justifyContent: 'center' }}>
                 <h1>

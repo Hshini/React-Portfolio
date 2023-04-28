@@ -1,27 +1,17 @@
 import React from 'react';
-
+import Navbar from 'react-bootstrap/Navbar';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs"
-      style={{ display: 'flex', justifyContent: "space-between", flexDirection: 'row', paddingTop: '10px', paddingBottom: "10px", backgroundColor: "#A5C0FA" }}>
-      <div className='name'>
-        <li className="nav-item" >
-          <a
-            href="#name"
-            onClick={() => handlePageChange('About-Me')}
-            className={currentPage === 'name' ? 'nav-link active' : 'nav-link'}
-          >
-            Halim
-          </a>
-        </li>
-      </div>
+      style={{ display: 'flex', justifyContent: "end", flexDirection: 'row', paddingTop: '10px', paddingBottom: "10px", backgroundColor: "#0d6efd" }}>
+      <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <div className='pages' style={{ display: 'flex', justifyContent: 'end', flexDirection: 'row' }}>
         <li className="nav-item">
           <a
             href="#about"
             onClick={() => handlePageChange('About-Me')}
-            className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+            className={currentPage === 'About' ? 'nav-link active' : 'nav-link'} style={{color:'black'}}
           >
             About Me
           </a>
@@ -31,7 +21,7 @@ function NavTabs({ currentPage, handlePageChange }) {
             href="#Portfolio"
             onClick={() => handlePageChange('Portfolio')}
 
-            className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+            className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link' } style={{color:'black'}}
           >
             Portfolio
           </a>
@@ -40,7 +30,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           <a
             href="#contact"
             onClick={() => handlePageChange('Contact')}
-            className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+            className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'} style={{color:'black'}}
           >
             Contact
           </a>
@@ -49,7 +39,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           <a
             href="#Resume"
             onClick={() => handlePageChange('Resume')}
-            className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+            className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'} style={{color:'black'}}
           >
             Resume
           </a>
