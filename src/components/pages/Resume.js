@@ -12,7 +12,7 @@ export default function Resume() {
                 <li>CSS</li>
                 <li>JavaScript</li>
                 <li>JQuery</li>
-                <li>Responsive Desing</li>
+                <li>Responsive Design</li>
                 <li>React</li>
                 <li>Bootstrap</li>
             </ul>
@@ -23,7 +23,7 @@ export default function Resume() {
                 <li>Express</li>
                 <li>Mysql Sequelize</li>
                 <li>API</li>
-                <li>MongoDB mongose</li>
+                <li>MongoDB mongoose</li>
                 <li>Rest</li>
                 <li>GraphQL</li>
                 
