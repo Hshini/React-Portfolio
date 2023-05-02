@@ -1,6 +1,7 @@
 import React from "react";
 import "../../assets/css/style.css";
 import { BsLinkedin,BsGithub} from "react-icons/bs";
+import cv from '../../assets/doc/cv.pdf'
 
 export default function Resume() {
 
@@ -26,8 +27,10 @@ export default function Resume() {
                 <li>MongoDB mongoose</li>
                 <li>Rest</li>
                 <li>GraphQL</li>
-                
             </ul>
+                <button className="btn btn-primary" type="submit" >
+                   <a href={cv } style={{color:"white"}}>Download Resume</a>
+                </button>
             <footer style={{ display: 'flex', flexDirection: 'row', justifyContent: 'center' }}>
                 <h1>
                     <a href='https://github.com/Hshini' style={{ marginRight: '10px' }} ><BsGithub /></a>
