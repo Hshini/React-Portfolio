@@ -5,8 +5,9 @@ import { BsLinkedin,BsGithub} from "react-icons/bs";
 export default function About() {
   return (
     <>
-        <div>
-      <p style={{marginLeft:'20px',marginTop:'30px',fontSize:'18px'}}>I am a hard working, honest individual. I am a good timekeeper, always willing to learn new skills.<br></br>
+      <div>
+      <p style={{marginLeft:'50px',marginTop:'30px',fontSize:'18px',lineHeight:'40px'}}>
+        I am a hard working, honest individual. I am a good timekeeper, always willing to learn new skills.<br></br>
          Full Stack  web developer with a background in Information Technology. <br></br>
          Trained at Columbia  coding boot camp and earned a certificate in full-stack web development.<br></br>
          Innovative problem-solver passionate about developing apps; focused on mobile-first design and development.<br></br>

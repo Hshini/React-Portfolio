@@ -6,7 +6,7 @@ import cv from '../../assets/doc/cv.pdf'
 export default function Resume() {
 
     return (
-        <div style={{ display: "flex", flexDirection: 'column', alignItems: 'center', marginTop: '10px' }}>
+        <div style={{ display: "flex", flexDirection: 'column', alignItems: 'center'}}>
             <h4 className="fronEnd">Front-End Proficiencies</h4>
             <ul>
                 <li>HTML</li>

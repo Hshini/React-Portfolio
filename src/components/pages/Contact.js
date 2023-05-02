@@ -15,23 +15,23 @@ const Contact = () => {
     console.log(conFom)
   }
   return (
-    <div className="container mt-5">
+    <div className="container mt-5" style={{backgroundColor:'#34568B',color:'white'}}>
       <form onSubmit={onSubmit}>
         <div className="mb-3">
           <label className="form-label" htmlFor="name">
-            Name
+            Name:
           </label>
           <input className="form-control" type="text" id="name" required />
         </div>
         <div className="mb-3">
           <label className="form-label" htmlFor="email">
-            Email
+            Email:
           </label>
           <input className="form-control" type="email" id="email" required />
         </div>
         <div className="mb-3">
           <label className="form-label" htmlFor="message">
-            Message
+            Message:
           </label>
           <textarea className="form-control" id="message" required />
         </div>
