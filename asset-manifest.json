@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.21123009.css",
-    "main.js": "/React-Portfolio/static/js/main.b2db3a60.js",
+    "main.js": "/React-Portfolio/static/js/main.7d51df09.js",
     "static/media/lovehungry.png": "/React-Portfolio/static/media/lovehungry.91a112ee50a5a3ef08d1.png",
     "static/media/Breezycocktail.png": "/React-Portfolio/static/media/Breezycocktail.496f595841b2013fded6.png",
-    "static/media/cv.pdf": "/React-Portfolio/static/media/cv.d1dc761a5113eb9c1f81.pdf",
+    "static/media/cv.pdf": "/React-Portfolio/static/media/cv.ce481841fe086f135c57.pdf",
     "static/media/tweeter.png": "/React-Portfolio/static/media/tweeter.c02651b218d2bd9617ef.png",
     "static/media/scheduler.png": "/React-Portfolio/static/media/scheduler.aa44208dba888c7c49ff.png",
     "static/media/Note-Taker.png": "/React-Portfolio/static/media/Note-Taker.785f25fe2c7392f05310.png",
     "static/media/quiz-game.png": "/React-Portfolio/static/media/quiz-game.4b6c2998750e4e537407.png",
     "index.html": "/React-Portfolio/index.html",
     "main.21123009.css.map": "/React-Portfolio/static/css/main.21123009.css.map",
-    "main.b2db3a60.js.map": "/React-Portfolio/static/js/main.b2db3a60.js.map"
+    "main.7d51df09.js.map": "/React-Portfolio/static/js/main.7d51df09.js.map"
   },
   "entrypoints": [
     "static/css/main.21123009.css",
-    "static/js/main.b2db3a60.js"
+    "static/js/main.7d51df09.js"
   ]
 }
