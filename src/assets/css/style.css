@@ -10,81 +10,36 @@
     justify-content: space-evenly;
     margin-top: 15px;
 }
-/* .project{
-    width: 500px;
-    height: 300px;
-    margin:5px;
-    display: flex;
-    flex-direction: row;
-} */
 
-.bcProject{
+
+#design{
     width: 400px;
     height: 300px;
     margin:5px;
     display: flex;
     flex-direction: row;
 }
-.bcProject:hover{
-    transform: scale(1.1);
-    z-index:2;
-}
-.lhProject{
-    width: 400px;
-    height: 300px;
-    margin:5px;
-    display: flex;
-    flex-direction: row;
-}
-.lhProject:hover{
-    transform: scale(1.1);
-    z-index:2;
-}
-.ntProject{
-    width: 400px;
-    height: 300px;
-    margin:5px;
-    display: flex;
-    flex-direction: row;
-}
-.ntProject:hover{
-    transform: scale(1.1);
-    z-index:2;
-}
-.ntProject{
-    width: 400px;
-    height: 300px;
-    margin:5px;
-    display: flex;
-    flex-direction: row;
-}
-.ntProject:hover{
+#design:hover{
     transform: scale(1.1);
     z-index:2;
 }
 
-.dsProject{
-    width: 400px;
-    height: 300px;
-    margin:5px;
-    display: flex;
-    flex-direction: row;
-}
-.dsProject:hover{
-    transform: scale(1.1);
-    z-index:2;
-}
-.qgProject{
-    width: 400px;
-    height: 300px;
-    margin:5px;
-    display: flex;
-    flex-direction: row;
-}
-.qgProject:hover{
-    transform: scale(1.1);
-    z-index:2;
-}
 .card{
     background-color: grey;
 }
+
+
+  
+  /* If screen size is 600px wide, or less, set the font-size of <div> to 30px */
+  @media screen and (max-width: 800px) {
+    div.gallery {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    div.projects {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }

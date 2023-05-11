@@ -10,16 +10,16 @@ import { BsLinkedin,BsGithub} from "react-icons/bs";
 
 export default function Portfolio() {
   return (
-    <div style={{backgroundColor:'lightcyan'}}>
+    <div style={{backgroundColor:'#34568B'}}>
       <div className='gallery'>
-        <a href="https://keimdm.github.io/recipe-search/" ><img src={breezyCoocktail} alt=" Breezy-Coocktail" className='bcProject' /></a>
-        <a href="https://love-hungry.herokuapp.com/" ><img src={loveHungry} alt=" love-hungry" className='lhProject' /></a>
-        <a href="https://github.com/BobbyCharms/tweeter" ><img src={tweeter} alt="tweeter" className='ntProject' /></a>
+        <a href="https://keimdm.github.io/recipe-search/" ><img src={breezyCoocktail} alt=" Breezy-Coocktail" className="img-fluid" id='design' /></a>
+        <a href="https://love-hungry.herokuapp.com/" ><img src={loveHungry} alt=" love-hungry" className="img-fluid" id='design' /></a>
+        <a href="https://github.com/BobbyCharms/tweeter" ><img src={tweeter} alt="tweeter" className="img-fluid" id='design' /></a>
       </div>
       <div className='projects'>
-      <a href='https://pwa-text-editor-11.herokuapp.com/'><img src={noteTaker} alt='Note Taker'  className='ntProject' /></a>
-      <a href='https://hshini.github.io/Work-Day-Scheduler/'><img src={scheduler} alt='Work-Day-Scheduler'  className='dsProject'/></a>
-      <a href='https://github.com/Hshini/Quiz-Game/'><img src={quiz} alt='Quiz-Game'  className='qgProject'/></a>
+      <a href='https://pwa-text-editor-11.herokuapp.com/'><img src={noteTaker} alt='Note Taker'  className="img-fluid" id='design' /></a>
+      <a href='https://hshini.github.io/Work-Day-Scheduler/'><img src={scheduler} alt='Work-Day-Scheduler'  className="img-fluid" id='design' /></a>
+      <a href='https://github.com/Hshini/Quiz-Game/'><img src={quiz} alt='Quiz-Game'  className="img-fluid" id='design' /></a>
       </div>
       <footer style={{display:'flex',flexDirection:'row',justifyContent:'center'}}>
         <h1>
