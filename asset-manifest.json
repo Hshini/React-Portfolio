@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.5a7e5796.css",
-    "main.js": "/React-Portfolio/static/js/main.1afd2d70.js",
-    "static/media/lovehungry.png": "/React-Portfolio/static/media/lovehungry.91a112ee50a5a3ef08d1.png",
-    "static/media/Breezycocktail.png": "/React-Portfolio/static/media/Breezycocktail.496f595841b2013fded6.png",
-    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.eeacd305a891112b625b.pdf",
-    "static/media/tweeter.png": "/React-Portfolio/static/media/tweeter.c02651b218d2bd9617ef.png",
-    "static/media/scheduler.png": "/React-Portfolio/static/media/scheduler.aa44208dba888c7c49ff.png",
-    "static/media/Note-Taker.png": "/React-Portfolio/static/media/Note-Taker.785f25fe2c7392f05310.png",
-    "static/media/quiz-game.png": "/React-Portfolio/static/media/quiz-game.4b6c2998750e4e537407.png",
-    "index.html": "/React-Portfolio/index.html",
-    "main.5a7e5796.css.map": "/React-Portfolio/static/css/main.5a7e5796.css.map",
-    "main.1afd2d70.js.map": "/React-Portfolio/static/js/main.1afd2d70.js.map"
+    "main.css": "/static/css/main.5a7e5796.css",
+    "main.js": "/static/js/main.c979f186.js",
+    "static/media/lovehungry.png": "/static/media/lovehungry.91a112ee50a5a3ef08d1.png",
+    "static/media/Breezycocktail.png": "/static/media/Breezycocktail.496f595841b2013fded6.png",
+    "static/media/Resume.pdf": "/static/media/Resume.91d647714ba98ef04714.pdf",
+    "static/media/tweeter.png": "/static/media/tweeter.c02651b218d2bd9617ef.png",
+    "static/media/scheduler.png": "/static/media/scheduler.aa44208dba888c7c49ff.png",
+    "static/media/Note-Taker.png": "/static/media/Note-Taker.785f25fe2c7392f05310.png",
+    "static/media/quiz-game.png": "/static/media/quiz-game.4b6c2998750e4e537407.png",
+    "index.html": "/index.html",
+    "main.5a7e5796.css.map": "/static/css/main.5a7e5796.css.map",
+    "main.c979f186.js.map": "/static/js/main.c979f186.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7e5796.css",
-    "static/js/main.1afd2d70.js"
+    "static/js/main.c979f186.js"
   ]
 }
