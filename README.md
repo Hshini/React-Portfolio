@@ -3,7 +3,7 @@
 ## Installation
 
 N/A<br>
-[Click-Here To Start](https://hshini.github.io/React-Portfolio/)
+[Click-Here To Start](https://halimshini.dev/)
 
 
 ## Usage
@@ -20,4 +20,4 @@ Please refer to the LICENSE in the repo.
 
 
 ## Deployment
-https://hshini.github.io/React-Portfolio/
+https://halimshini.dev/
