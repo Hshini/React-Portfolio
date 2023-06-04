@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5a7e5796.css",
-    "main.js": "/static/js/main.83670b9f.js",
+    "main.js": "/static/js/main.a90f911c.js",
     "static/media/lovehungry.png": "/static/media/lovehungry.91a112ee50a5a3ef08d1.png",
     "static/media/Breezycocktail.png": "/static/media/Breezycocktail.496f595841b2013fded6.png",
     "static/media/Halim.jpg": "/static/media/Halim.17c95c7ba389b1ae0847.jpg",
@@ -12,10 +12,10 @@
     "static/media/quiz-game.png": "/static/media/quiz-game.4b6c2998750e4e537407.png",
     "index.html": "/index.html",
     "main.5a7e5796.css.map": "/static/css/main.5a7e5796.css.map",
-    "main.83670b9f.js.map": "/static/js/main.83670b9f.js.map"
+    "main.a90f911c.js.map": "/static/js/main.a90f911c.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7e5796.css",
-    "static/js/main.83670b9f.js"
+    "static/js/main.a90f911c.js"
   ]
 }
