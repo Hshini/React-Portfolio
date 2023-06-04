@@ -1,6 +1,8 @@
 import React from "react";
 import "../../assets/css/style.css";
-import { BsLinkedin,BsGithub} from "react-icons/bs";
+import { BiMailSend } from "react-icons/bi";
+import { BsGithub, BsLinkedin } from "react-icons/bs";
+
 import resume from '../../assets/doc/Resume.pdf'
 
 export default function Resume() {
@@ -31,14 +33,17 @@ export default function Resume() {
                 <button className="btn btn-primary" type="submit" >
                    <a href={resume} style={{color:"white"}}>Download Resume</a>
                 </button>
-            <footer style={{ display: 'flex', flexDirection: 'row', justifyContent: 'center' }}>
-                <h1>
-                    <a href='https://github.com/Hshini' style={{ marginRight: '10px' }} ><BsGithub /></a>
-                </h1>
-                <h1>
-                    <a href='https://www.linkedin.com/in/halim-shini-79791b18a'> <BsLinkedin /></a>
-                </h1>
-            </footer>
+                <footer style={{ display: 'flex', marginTop: '20px', flexDirection: 'row', justifyContent: 'center' }}>
+                    <h1>
+                    <a href='https://github.com/Hshini' style={{ marginRight: '15px' }} ><BsGithub /></a>
+                    </h1>
+                    <h1>
+                    <a href='https://www.linkedin.com/in/halim-shini-79791b18a' style={{ marginRight: '15px' }}> <BsLinkedin /></a>
+                    </h1>
+                    <h1>
+                    <a href="mailto:halimshini@hotmail.com" style={{ marginRight: '15px' }}><BiMailSend /></a>
+                    </h1>
+                </footer>
         </div>
 
 
