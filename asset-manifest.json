@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a7e5796.css",
-    "main.js": "/static/js/main.667d6efe.js",
+    "main.css": "/static/css/main.c2cab247.css",
+    "main.js": "/static/js/main.0de20de8.js",
     "static/media/lovehungry.png": "/static/media/lovehungry.91a112ee50a5a3ef08d1.png",
+    "static/media/e-commerce.png": "/static/media/e-commerce.f8eb2b0ead9ee818c10c.png",
     "static/media/Breezycocktail.png": "/static/media/Breezycocktail.496f595841b2013fded6.png",
+    "static/media/employeeTracker.png": "/static/media/employeeTracker.859db124e30f059bc4ad.png",
     "static/media/Halim.jpg": "/static/media/Halim.17c95c7ba389b1ae0847.jpg",
     "static/media/Resume.pdf": "/static/media/Resume.dfcc6a77650146e1ec1f.pdf",
-    "static/media/tweeter.png": "/static/media/tweeter.c02651b218d2bd9617ef.png",
-    "static/media/scheduler.png": "/static/media/scheduler.aa44208dba888c7c49ff.png",
-    "static/media/Note-Taker.png": "/static/media/Note-Taker.785f25fe2c7392f05310.png",
-    "static/media/quiz-game.png": "/static/media/quiz-game.4b6c2998750e4e537407.png",
+    "static/media/weather-dashboard.png": "/static/media/weather-dashboard.d80731527fa1afb81a75.png",
+    "static/media/Note-Taker.png": "/static/media/Note-Taker.9afc15173dd1e5ca1ea4.png",
     "index.html": "/index.html",
-    "main.5a7e5796.css.map": "/static/css/main.5a7e5796.css.map",
-    "main.667d6efe.js.map": "/static/js/main.667d6efe.js.map"
+    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
+    "main.0de20de8.js.map": "/static/js/main.0de20de8.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a7e5796.css",
-    "static/js/main.667d6efe.js"
+    "static/css/main.c2cab247.css",
+    "static/js/main.0de20de8.js"
   ]
 }
