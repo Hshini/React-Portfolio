@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c2cab247.css",
-    "main.js": "/static/js/main.a5d9404a.js",
+    "main.js": "/static/js/main.b047c383.js",
     "static/media/lovehungry.png": "/static/media/lovehungry.91a112ee50a5a3ef08d1.png",
     "static/media/e-commerce.png": "/static/media/e-commerce.f8eb2b0ead9ee818c10c.png",
     "static/media/Breezycocktail.png": "/static/media/Breezycocktail.496f595841b2013fded6.png",
@@ -9,13 +9,13 @@
     "static/media/Halim.jpg": "/static/media/Halim.17c95c7ba389b1ae0847.jpg",
     "static/media/Resume.pdf": "/static/media/Resume.dfcc6a77650146e1ec1f.pdf",
     "static/media/weather-dashboard.png": "/static/media/weather-dashboard.d80731527fa1afb81a75.png",
-    "static/media/Note-Taker.png": "/static/media/Note-Taker.9afc15173dd1e5ca1ea4.png",
+    "static/media/Note-Taker.png": "/static/media/Note-Taker.bb53de1c2240a697c456.png",
     "index.html": "/index.html",
     "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
-    "main.a5d9404a.js.map": "/static/js/main.a5d9404a.js.map"
+    "main.b047c383.js.map": "/static/js/main.b047c383.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.a5d9404a.js"
+    "static/js/main.b047c383.js"
   ]
 }
